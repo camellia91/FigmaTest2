@@ -2,7 +2,7 @@
   "Color Palettes": {
     "Color Palettes": {
       "Black": {
-        "value": "#000000",
+        "value": "#39fff8",
         "type": "color"
       },
       "White": {
@@ -1272,7 +1272,7 @@
           }
         ],
         "type": "boxShadow",
-        "description": "+ Floating action button (FAB - resting elevation) Snackbar"
+        "description": "+ Floating action button  (FAB - resting elevation) Snackbar"
       },
       "7dp": {
         "value": [
@@ -1331,7 +1331,7 @@
           }
         ],
         "type": "boxShadow",
-        "description": "+ Contained button (pressed state)\n+ Card (when picked up)\n+ Menus and sub menus\n+ Bottom app bar\n+ Bottom navigation bar\n+ Standard bottom sheet Standard side sheet"
+        "description": "+ Contained button (pressed state)\n+ Card (when picked up)\n+ Menus and sub menus\n+ Bottom app bar\n+ Bottom navigation bar\n+ Standard bottom sheet Standard  side sheet"
       },
       "9dp": {
         "value": [
@@ -1448,7 +1448,7 @@
           }
         ],
         "type": "boxShadow",
-        "description": "+ Floating action button (FAB - pressed)"
+        "description": "+ Floating action button  (FAB - pressed)"
       },
       "13dp": {
         "value": [
@@ -1565,7 +1565,7 @@
           }
         ],
         "type": "boxShadow",
-        "description": "+ Contained button (pressed state)\n+ Card (when picked up)\n+ Menus and sub menus\n+ Bottom app bar\n+ Bottom navigation bar\n+ Standard bottom sheet Standard side sheet"
+        "description": "+ Contained button (pressed state)\n+ Card (when picked up)\n+ Menus and sub menus\n+ Bottom app bar\n+ Bottom navigation bar\n+ Standard bottom sheet Standard  side sheet"
       },
       "17dp": {
         "value": [
@@ -2888,7 +2888,7 @@
         }
       ],
       "type": "boxShadow",
-      "description": "+ Floating action button (FAB - resting elevation) Snackbar"
+      "description": "+ Floating action button  (FAB - resting elevation) Snackbar"
     },
     "7dp": {
       "value": [
@@ -2947,7 +2947,7 @@
         }
       ],
       "type": "boxShadow",
-      "description": "+ Contained button (pressed state)\n+ Card (when picked up)\n+ Menus and sub menus\n+ Bottom app bar\n+ Bottom navigation bar\n+ Standard bottom sheet Standard side sheet"
+      "description": "+ Contained button (pressed state)\n+ Card (when picked up)\n+ Menus and sub menus\n+ Bottom app bar\n+ Bottom navigation bar\n+ Standard bottom sheet Standard  side sheet"
     },
     "9dp": {
       "value": [
@@ -3064,7 +3064,7 @@
         }
       ],
       "type": "boxShadow",
-      "description": "+ Floating action button (FAB - pressed)"
+      "description": "+ Floating action button  (FAB - pressed)"
     },
     "13dp": {
       "value": [
@@ -3181,7 +3181,7 @@
         }
       ],
       "type": "boxShadow",
-      "description": "+ Contained button (pressed state)\n+ Card (when picked up)\n+ Menus and sub menus\n+ Bottom app bar\n+ Bottom navigation bar\n+ Standard bottom sheet Standard side sheet"
+      "description": "+ Contained button (pressed state)\n+ Card (when picked up)\n+ Menus and sub menus\n+ Bottom app bar\n+ Bottom navigation bar\n+ Standard bottom sheet Standard  side sheet"
     },
     "17dp": {
       "value": [
